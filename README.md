@@ -2,4 +2,4 @@
 Repositório para exercício da EBAC
 
 
-<img src="img/arquivo.gif">
+<img src="img/reproducao.gif">
